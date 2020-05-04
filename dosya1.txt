@@ -5,3 +5,9 @@ Dördüncü satır git revert ile gitti
 5. satır yazıldı
 6. satır yazıldı
 7. satır yazıldı
+8.
+9.
+10.
+11.
+12.
+13. satır yazıldı
