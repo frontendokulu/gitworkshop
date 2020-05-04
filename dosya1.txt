@@ -14,3 +14,4 @@ Dördüncü satır git revert ile gitti
 14. satır yazıldı
 15. satır yazıldı
 16. satır yazıldı
+17. satır yazıldı
